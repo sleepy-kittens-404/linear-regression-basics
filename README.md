@@ -64,4 +64,4 @@ jupyter notebook lnr_reg.ipynb
 
 - Practiced the end-to-end ML pipeline: data loading → EDA → model training → evaluation
 - Got comfortable reading performance metrics (MSE, MAE, R²)
-- Linear regression works best when the relationship between variables is, well, linear — and this dataset is a good example of that
+- Linear regression works best when the relationship between variables is, well, linear and this dataset is a good example of that
